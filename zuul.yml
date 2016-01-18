@@ -1,3 +1,7 @@
+server:
+  port: 8765
+
 zuul:
   routes:
-    users: /myusers/**
+    stores: /stores/**
+    customers: /customers/**
