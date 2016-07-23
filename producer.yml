@@ -1,7 +1,7 @@
 server:
   port: 8081
 
-greeting: Hello1
+greeting: Hello
 
 ---
 
