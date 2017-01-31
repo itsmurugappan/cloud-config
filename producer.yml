@@ -1,10 +1,9 @@
 server:
   port: 8081
 
-greeting: Sumo
+greeting: Sumo1
 
 ---
 
 spring:
   profiles: spanish
-greeting: Hola
