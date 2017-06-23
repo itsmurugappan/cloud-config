@@ -1,5 +1,1 @@
 greeting: muru
-
-spring:
-  profiles:
-    active: test
